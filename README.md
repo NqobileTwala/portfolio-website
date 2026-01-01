@@ -28,8 +28,8 @@ This portfolio was created to:
 - Build an online professional presence
 
 ## 📬 Contact
-- GitHub: [https://github.com/your-username](https://github.com/NqobileTwala)
-- LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/nqobile-twala)
+[Github](https://github.com/NqobileTwala)
+[LinkedIn](https://linkedin.com/in/nqobile-twala)
 
 ---
 
